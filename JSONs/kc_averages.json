@@ -1,0 +1,487 @@
+{
+    "Define Variable": {
+        "avg_failures": 0.049227853041199754,
+        "avg_hints": 0.022272397836873504,
+        "avg_corrects": 0.9709538941852026
+    },
+    "Using small numbers": {
+        "avg_failures": 0.8055805641949038,
+        "avg_hints": 0.7922068532765861,
+        "avg_corrects": 0.8468038958913091
+    },
+    "Write expression, positive slope": {
+        "avg_failures": 0.970240528754429,
+        "avg_hints": 1.2804067865903515,
+        "avg_corrects": 0.923061460888526
+    },
+    "Using difficult numbers": {
+        "avg_failures": 0.8614374865504622,
+        "avg_hints": 0.9280853238648591,
+        "avg_corrects": 0.8287282117495158
+    },
+    "Entering a given": {
+        "avg_failures": 0.366008680047748,
+        "avg_hints": 0.17353909578883295,
+        "avg_corrects": 0.9261079314133972
+    },
+    "Remove coefficient": {
+        "avg_failures": 0.2318832162954556,
+        "avg_hints": 0.20504725847637956,
+        "avg_corrects": 0.8083212157752768
+    },
+    "Remove positive coefficient": {
+        "avg_failures": 0.09603284310037861,
+        "avg_hints": 0.042721419794879506,
+        "avg_corrects": 0.7922998319917708
+    },
+    "Find X, Simple": {
+        "avg_failures": 0.5161425576519917,
+        "avg_hints": 0.22680817610062892,
+        "avg_corrects": 0.8969077568134176
+    },
+    "Find Y, Simple": {
+        "avg_failures": 0.5024057217165149,
+        "avg_hints": 0.17130472475075859,
+        "avg_corrects": 0.8127980060684875
+    },
+    "Identifying units": {
+        "avg_failures": 0.30254426875971635,
+        "avg_hints": 0.08123838774504227,
+        "avg_corrects": 0.9758180715125315
+    },
+    "Eliminate Parens": {
+        "avg_failures": 0.2155783152129709,
+        "avg_hints": 0.15911666621478732,
+        "avg_corrects": 0.7705898833247492
+    },
+    "Write expression, ratio": {
+        "avg_failures": 1.103448275862069,
+        "avg_hints": 3.0344827586206895,
+        "avg_corrects": 0.9655172413793104
+    },
+    "Convert unit, standard": {
+        "avg_failures": 0.6938107489994283,
+        "avg_hints": 0.5267295597484277,
+        "avg_corrects": 0.9123356203544885
+    },
+    "Remove constant": {
+        "avg_failures": 0.21937775391193504,
+        "avg_hints": 0.16918127891921184,
+        "avg_corrects": 0.7986720164072177
+    },
+    "Find X, positive slope": {
+        "avg_failures": 0.6362053571428571,
+        "avg_hints": 0.38298363095238097,
+        "avg_corrects": 0.8537351190476203
+    },
+    "Labelling the axes": {
+        "avg_failures": 0.15958463136033235,
+        "avg_hints": 0.03267133956386293,
+        "avg_corrects": 0.8980870790683843
+    },
+    "Changing axis bounds": {
+        "avg_failures": 0.5855244035363932,
+        "avg_hints": 0.12675003027734044,
+        "avg_corrects": 1.096805596405933
+    },
+    "Changing axis intervals": {
+        "avg_failures": 0.0,
+        "avg_hints": 0.0,
+        "avg_corrects": 2.037322807911041
+    },
+    "Correctly placing points": {
+        "avg_failures": 0.0,
+        "avg_hints": 2.244369780432497,
+        "avg_corrects": 0.0
+    },
+    "Find Y, positive slope": {
+        "avg_failures": 0.7913483951945489,
+        "avg_hints": 0.3023130715438408,
+        "avg_corrects": 0.701174466559082
+    },
+    "Using simple numbers": {
+        "avg_failures": 0.8113973458235757,
+        "avg_hints": 0.7209086093453779,
+        "avg_corrects": 0.8462292293966792
+    },
+    "Using large numbers": {
+        "avg_failures": 0.8766335466487032,
+        "avg_hints": 0.791414056360166,
+        "avg_corrects": 0.8267205568653854
+    },
+    "ax+b=c, negative": {
+        "avg_failures": 0.25,
+        "avg_hints": 0.0,
+        "avg_corrects": 0.8714285714285713
+    },
+    "Write expression, negative slope": {
+        "avg_failures": 1.2640677966101694,
+        "avg_hints": 1.4233521657250472,
+        "avg_corrects": 0.9167984934086634
+    },
+    "Find X, negative slope": {
+        "avg_failures": 0.6775362318840582,
+        "avg_hints": 0.39180164819551005,
+        "avg_corrects": 0.8432225063938626
+    },
+    "Find Y, negative slope": {
+        "avg_failures": 1.1764187866927596,
+        "avg_hints": 0.47879973907371165,
+        "avg_corrects": 0.6352250489236789
+    },
+    "Consolidate vars, any": {
+        "avg_failures": 0.4738795221980506,
+        "avg_hints": 0.5462830352106999,
+        "avg_corrects": 0.7062233099669627
+    },
+    "Isolate positive": {
+        "avg_failures": 0.25,
+        "avg_hints": 0.0,
+        "avg_corrects": 0.625
+    },
+    "Convert unit, mixed": {
+        "avg_failures": 0.8284789644012944,
+        "avg_hints": 0.6132686084142396,
+        "avg_corrects": 0.8899676375404532
+    },
+    "Variable in denominator": {
+        "avg_failures": 0.5333507125477928,
+        "avg_hints": 0.4463156065345847,
+        "avg_corrects": 0.8026652266746129
+    },
+    "Isolate negative": {
+        "avg_failures": 0.0,
+        "avg_hints": 0.0,
+        "avg_corrects": 0.5333333333333333
+    },
+    "Select Multiply": {
+        "avg_failures": 0.039205526770293604,
+        "avg_hints": 0.004145077720207254,
+        "avg_corrects": 0.8956291635825322
+    },
+    "Consolidate vars with coeff": {
+        "avg_failures": 0.08047019005263113,
+        "avg_hints": 0.07158387650893001,
+        "avg_corrects": 0.7203492795569888
+    },
+    "Find Y, any form": {
+        "avg_failures": 0.9533333333333333,
+        "avg_hints": 0.6211014492753623,
+        "avg_corrects": 0.472376811594203
+    },
+    "Select Eliminate Parens": {
+        "avg_failures": 0.16180000000000003,
+        "avg_hints": 0.0636,
+        "avg_corrects": 0.9444428571428573
+    },
+    "Consolidate vars, no coeff": {
+        "avg_failures": 0.1185267857142857,
+        "avg_hints": 0.10468705177854273,
+        "avg_corrects": 0.8176343767928858
+    },
+    "Select Combine Terms": {
+        "avg_failures": 0.0728747340860743,
+        "avg_hints": 0.02396907216494845,
+        "avg_corrects": 0.86384593356243
+    },
+    "done no solutions": {
+        "avg_failures": 0.9726190476190475,
+        "avg_hints": 0.8928571428571429,
+        "avg_corrects": 0.0
+    },
+    "Done?": {
+        "avg_failures": 0.8050809523809522,
+        "avg_hints": 0.428,
+        "avg_corrects": 0.0
+    },
+    "Remove negative coefficient": {
+        "avg_failures": 0.09523809523809523,
+        "avg_hints": 0.0,
+        "avg_corrects": 0.8095238095238095
+    },
+    "Add/Subtract": {
+        "avg_failures": 0.4204110402883928,
+        "avg_hints": 0.1244222578014077,
+        "avg_corrects": 1.4138756306075055
+    },
+    "Multiply/Divide": {
+        "avg_failures": 0.3205530607789938,
+        "avg_hints": 0.1336321867756052,
+        "avg_corrects": 1.4990564027401025
+    },
+    "Calculate Eliminate Parens": {
+        "avg_failures": 0.35368967452300787,
+        "avg_hints": 0.2728956228956229,
+        "avg_corrects": 1.4665063331729993
+    },
+    "combine-like-terms-sp": {
+        "avg_failures": 1.2268128255073427,
+        "avg_hints": 0.22367379501844284,
+        "avg_corrects": 1.3528416704656863
+    },
+    "simplify-fractions-sp": {
+        "avg_failures": 1.1735146554000528,
+        "avg_hints": 0.3430881964615788,
+        "avg_corrects": 1.4145798491916792
+    },
+    "perform-mult-r-sp": {
+        "avg_failures": 1.428014375561545,
+        "avg_hints": 0.5494788858939803,
+        "avg_corrects": 2.1878840970350417
+    },
+    "Calculate negative coefficient": {
+        "avg_failures": 0.6924466338259442,
+        "avg_hints": 0.40229885057471265,
+        "avg_corrects": 1.4987000547345382
+    },
+    "distribute-sp": {
+        "avg_failures": 1.06825088411876,
+        "avg_hints": 0.2064478986758779,
+        "avg_corrects": 1.1723568961263262
+    },
+    "perform-mult-sp": {
+        "avg_failures": 1.250198719364098,
+        "avg_hints": 0.18845281028434036,
+        "avg_corrects": 1.413565049925172
+    },
+    "perform-mult-row2-sp": {
+        "avg_failures": 0.2506595881595881,
+        "avg_hints": 0.055345651774223195,
+        "avg_corrects": 0.8824806949806947
+    },
+    "Make variable positive": {
+        "avg_failures": 0.47619047619047616,
+        "avg_hints": 0.14285714285714285,
+        "avg_corrects": 0.9087301587301588
+    },
+    "Setting the y-intercept": {
+        "avg_failures": 1.5292523364485981,
+        "avg_hints": 0.624361370716511,
+        "avg_corrects": 0.9196105919003117
+    },
+    "Setting the slope": {
+        "avg_failures": 4.037038789025544,
+        "avg_hints": 2.025764742983286,
+        "avg_corrects": 0.9119993692841376
+    },
+    "Entering the y-intercept": {
+        "avg_failures": 0.4752565375703409,
+        "avg_hints": 0.15921880172128433,
+        "avg_corrects": 0.9431479642502484
+    },
+    "Entering the slope": {
+        "avg_failures": 0.375041542040545,
+        "avg_hints": 0.12761714855433698,
+        "avg_corrects": 0.9448321701561981
+    },
+    "Write expression, initial and change": {
+        "avg_failures": 1.4239766081871346,
+        "avg_hints": 3.3362573099415207,
+        "avg_corrects": 0.9438596491228068
+    },
+    "combine-like-terms-r-sp": {
+        "avg_failures": 1.3380208333333332,
+        "avg_hints": 0.5541666666666667,
+        "avg_corrects": 2.7627232142857143
+    },
+    "Extract to consolidate vars": {
+        "avg_failures": 0.3509887005649718,
+        "avg_hints": 0.5705626177024483,
+        "avg_corrects": 0.9108992467043309
+    },
+    "invert-mult": {
+        "avg_failures": 1.0,
+        "avg_hints": 0.5401785714285714,
+        "avg_corrects": 0.25520833333333337
+    },
+    "factor-sp": {
+        "avg_failures": 0.7423743691024799,
+        "avg_hints": 0.11571940604198667,
+        "avg_corrects": 1.2974873820495942
+    },
+    "Select Multiply/Divide, nested": {
+        "avg_failures": 0.26059858068497366,
+        "avg_hints": 0.014803815694744421,
+        "avg_corrects": 0.8187365010799146
+    },
+    "combine-like-terms-whole-sp": {
+        "avg_failures": 1.6144748432561273,
+        "avg_hints": 0.1310119695321001,
+        "avg_corrects": 1.4342997046479082
+    },
+    "perform-mult-whole-sp": {
+        "avg_failures": 1.6818570870971346,
+        "avg_hints": 0.1797535407605665,
+        "avg_corrects": 1.3848876435820219
+    },
+    "Labelling point of intersection": {
+        "avg_failures": 0.46696514012303475,
+        "avg_hints": 0.18662109820004558,
+        "avg_corrects": 0.7815652768284346
+    },
+    "Write expression, initial and point": {
+        "avg_failures": 1.1721813725490198,
+        "avg_hints": 2.78125,
+        "avg_corrects": 0.9295343137254902
+    },
+    "Write expression, two points": {
+        "avg_failures": 2.31079295154185,
+        "avg_hints": 3.96101321585903,
+        "avg_corrects": 0.6193832599118944
+    },
+    "Negative Constant, SIF": {
+        "avg_failures": 0.6292517006802721,
+        "avg_hints": 0.4336734693877551,
+        "avg_corrects": 0.9223356009070296
+    },
+    "Entering x-intercept, SIF": {
+        "avg_failures": 1.6335784313725492,
+        "avg_hints": 0.9227941176470589,
+        "avg_corrects": 0.7181372549019608
+    },
+    "Entering y-intercept, SIF": {
+        "avg_failures": 0.34074074074074073,
+        "avg_hints": 0.17037037037037037,
+        "avg_corrects": 0.9345679012345678
+    },
+    "Placing coordinate point": {
+        "avg_failures": 3.080529100529101,
+        "avg_hints": 0.9226757369614512,
+        "avg_corrects": 0.8959611992945331
+    },
+    "Excluding the line when shading": {
+        "avg_failures": 0.872110552763819,
+        "avg_hints": 0.010050251256281407,
+        "avg_corrects": 0.9358458961474037
+    },
+    "Shading SIF equation with positive slope": {
+        "avg_failures": 0.9478723404255318,
+        "avg_hints": 0.02127659574468085,
+        "avg_corrects": 0.9418439716312055
+    },
+    "Shading greater than": {
+        "avg_failures": 0.9759574468085107,
+        "avg_hints": 0.00851063829787234,
+        "avg_corrects": 0.9334751773049645
+    },
+    "Entering slope, SIF": {
+        "avg_failures": 0.463855421686747,
+        "avg_hints": 0.3373493975903614,
+        "avg_corrects": 0.9347389558232931
+    },
+    "Entering a point": {
+        "avg_failures": 1.210942367601246,
+        "avg_hints": 0.3549454828660436,
+        "avg_corrects": 0.8523753894080995
+    },
+    "Positive Constants, SIF": {
+        "avg_failures": 1.0039954337899544,
+        "avg_hints": 0.2688356164383562,
+        "avg_corrects": 0.8555936073059361
+    },
+    "Including the line when shading": {
+        "avg_failures": 1.0752032520325203,
+        "avg_hints": 0.0,
+        "avg_corrects": 0.9332655826558267
+    },
+    "Shading SIF equation with negative slope": {
+        "avg_failures": 0.9489247311827957,
+        "avg_hints": 0.0,
+        "avg_corrects": 0.924731182795699
+    },
+    "Shading less than": {
+        "avg_failures": 0.9938095238095239,
+        "avg_hints": 0.0,
+        "avg_corrects": 0.9354761904761906
+    },
+    "Negative Constant, GLF": {
+        "avg_failures": 1.6766729205753597,
+        "avg_hints": 0.9448092557848655,
+        "avg_corrects": 0.7442151344590368
+    },
+    "Entering x-intercept, GLF": {
+        "avg_failures": 1.1120218579234975,
+        "avg_hints": 0.7834699453551912,
+        "avg_corrects": 0.7219945355191256
+    },
+    "Entering y-intercept, GLF": {
+        "avg_failures": 1.6342857142857143,
+        "avg_hints": 1.0466666666666669,
+        "avg_corrects": 0.7985714285714286
+    },
+    "Shading GLF equation with positive slope": {
+        "avg_failures": 0.9576822916666666,
+        "avg_hints": 0.0,
+        "avg_corrects": 0.9114583333333333
+    },
+    "Entering slope, GLF": {
+        "avg_failures": 2.507142857142857,
+        "avg_hints": 2.530952380952381,
+        "avg_corrects": 0.7880952380952381
+    },
+    "Shading GLF equation with negative slope": {
+        "avg_failures": 1.1274509803921569,
+        "avg_hints": 0.0,
+        "avg_corrects": 0.9362745098039217
+    },
+    "Positive Constants, GLF": {
+        "avg_failures": 0.6157250470809793,
+        "avg_hints": 0.24152542372881355,
+        "avg_corrects": 0.9595417451349653
+    },
+    "Write expression, quadratic": {
+        "avg_failures": 1.2954059829059827,
+        "avg_hints": 1.7024572649572651,
+        "avg_corrects": 0.8456196581196581
+    },
+    "Entering a given linear value": {
+        "avg_failures": 0.28899176954732514,
+        "avg_hints": 0.1723495982755242,
+        "avg_corrects": 0.8997770919067214
+    },
+    "Entering a computed linear value": {
+        "avg_failures": 0.6621074232690934,
+        "avg_hints": 0.3764275517487508,
+        "avg_corrects": 0.7845556745182019
+    },
+    "Entering a computed quadratic value": {
+        "avg_failures": 0.4845029239766082,
+        "avg_hints": 0.6039766081871345,
+        "avg_corrects": 0.8337426900584797
+    },
+    "Entering a given quadratic value": {
+        "avg_failures": 0.23016634676903389,
+        "avg_hints": 0.10070605977515766,
+        "avg_corrects": 1.1073576455534229
+    },
+    "factor-quadratic-sp": {
+        "avg_failures": 1.561904761904762,
+        "avg_hints": 0.2354875283446712,
+        "avg_corrects": 0.9103822481373501
+    },
+    "qft-num1-sp": {
+        "avg_failures": 0.4380733944954129,
+        "avg_hints": 0.11314984709480123,
+        "avg_corrects": 1.1368501529051989
+    },
+    "qft-den-sp": {
+        "avg_failures": 0.27469135802469136,
+        "avg_hints": 0.0617283950617284,
+        "avg_corrects": 1.1435185185185186
+    },
+    "qft-num2-sp": {
+        "avg_failures": 0.6223241590214068,
+        "avg_hints": 0.14755351681957185,
+        "avg_corrects": 1.1047400611620795
+    },
+    "Apply Exponent": {
+        "avg_failures": 0.18042071197411005,
+        "avg_hints": 0.18122977346278318,
+        "avg_corrects": 0.9174757281553396
+    },
+    "Convert unit, multiplier": {
+        "avg_failures": 0.6981132075471698,
+        "avg_hints": 0.03773584905660377,
+        "avg_corrects": 0.9716981132075472
+    }
+}
